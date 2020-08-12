@@ -1,4 +1,6 @@
 body {
+	font-family: 'Noto Sans JP', sans-serif;
+	margin: 0px;
 
 }
 
@@ -46,6 +48,7 @@ background-repeat: no-repeat;
 	padding-bottom: 40px;
 	background-color: black;
 	height: auto;
+	margin: 0px;
 }
 
 .col-img {
@@ -53,17 +56,33 @@ background-repeat: no-repeat;
 	width: auto;
 	vertical-align: center;
 	align-content: center;
-	margin: 10px;
+	/*margin: 10px;*/
 
 }
 
 .h2-text{
 	color:white;
+	font-size: 22px;
 }
 
 .container {
 	align-content: center;
 }
 
+
+.footer {
+	margin: 0px;
+	background-color: #e3e3e3;
+	height: 300px;
+}
+
+.insta-preview{
+
+	height: 150px;
+}
+
+.insides{
+	align-content: center;
+}
 
 
